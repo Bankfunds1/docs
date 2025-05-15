@@ -197,3 +197,4 @@ API,current_user,gh.actor.login
 API,org,gh.organization.id
 API,org,gh.organization.login
 API,viewer,gh.graphql.viewer.id
+API,view now this very time all info above 
